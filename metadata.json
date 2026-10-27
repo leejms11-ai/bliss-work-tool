@@ -1,0 +1,6 @@
+{
+  "name": "인테리어 현장 메이트 (Interior Field Mate)",
+  "description": "인테리어 시공 현장별 캘린더 일정, 기본 정보 팝업, 실측 체크리스트, 가도면 및 본도면, 발주 체크리스트, 시공 완료 사진, 견적서 및 A/S 미마감 통합 관리 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
